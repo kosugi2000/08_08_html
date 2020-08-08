@@ -1,0 +1,32 @@
+.box1 {
+        width: 945px;
+        height: 370px;
+        /* background: red; */
+        background: url(../img/02.jpg) no-repeat center center;
+        background-size: cover;
+        margin: 0 auto;
+        
+        /* margin-top: 0px;
+        margin-bottom: 0px; */
+        /* MARGIN-LEFT: auto; */
+        /* margin-right: auto; */
+    }
+
+    p.title {
+        color: white;
+        font-size: 50px;
+        font-weight: bold;
+        text-align: center;
+        /* margin-top: 165px; */
+        padding-top: 100px;
+    }
+
+    p.text {
+        color: white;
+        font-size: 28px;
+        font-weight: bold;
+        text-align: center;
+        /* margin-top: 165px; */
+        padding-top: 39px;
+    }
+v
